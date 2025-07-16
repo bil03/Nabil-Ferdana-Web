@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Graduated Bachelor Degree",
+    "location": "Tanjungpinang, Indonesia",
+    "date": "2020 - 2024",
+    "description": "I pursued a degree in Informatics Engineering and successfully graduated within 4 years. Throughout my studies, I developed a deep interest in programming, technology, and problem-solving, which motivated me to continuously enhance my skills and knowledge.",
+    "icon": "School"
+  },
+  {
+    "title": "Web Developer Intern",
+    "location": "Tanjungpinang, Indonesia",
+    "date": "2023",
+    "description": "I completed my college studies practical work, namely making a web-based item data processing system at Roku Japanese Cuisine.",
+    "icon": "Work"
+  },
+  {
+    "title": "Graduated Bangkit Academy 2024 H1",
+    "location": "Jakarta, Indonesia",
+    "date": "2024",
+    "description": "While waiting for graduation, I immediately took bootcamp activities to learn backend programming, then I immediately got a job.",
+    "icon": "School"
+  },
+  {
+    "title": "Web Developer (Virtual Internship)",
+    "location": "New Delhi, India",
+    "date": "2024",
+    "description": "I am a virtual intern at Encryptix as a web development. during my internship Gained hands-on experience in HTML, CSS, and JavaScript, improving technical skills through meaningful projects.",
+    "icon": "Work"
+  }
+]

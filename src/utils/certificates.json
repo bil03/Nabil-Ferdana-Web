@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Associate Cloud Engineer",
+    "issuer": "Google Cloud",
+    "image": "ace.png"
+  },
+  {
+    "title": "Cloud Computing",
+    "issuer": "Bangkit Academy",
+    "image": "cloud-computing.png"
+  },
+  {
+    "title": "Google Cloud Architect",
+    "issuer": "Dicoding",
+    "image": "cloud-architect.png"
+  },
+  {
+    "title": "Google Cloud Engineer",
+    "issuer": "Dicoding",
+    "image": "cloud-engineer.png"
+  },
+  {
+    "title": "Dasar JavaScript",
+    "issuer": "Dicoding",
+    "image": "dasar-javascript.png"
+  },
+  {
+    "title": "Fundamental Backend Developer",
+    "issuer": "Dicoding",
+    "image": "fundamental-backend.png"
+  },
+  {
+    "title": "Fundamental React Developer",
+    "issuer": "Dicoding",
+    "image": "fundamental-react.png"
+  },
+  {
+    "title": "Dasar GitHub",
+    "issuer": "Dicoding",
+    "image": "github.png"
+  },
+  {
+    "title": "Machine Learning on Google Cloud",
+    "issuer": "Dicoding",
+    "image": "ml-google-cloud.png"
+  }
+]

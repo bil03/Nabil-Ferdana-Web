@@ -1,0 +1,20 @@
+[
+  { "name": "HTML", "image": "html.png" },
+  { "name": "CSS", "image": "css.png" },
+  { "name": "Tailwind CSS", "image": "Tailwind CSS.png" },
+  { "name": "JavaScript", "image": "JavaScript.png" },
+  { "name": "PHP", "image": "PHP.png" },
+  { "name": "Node.js", "image": "Node.js.png" },
+  { "name": "Express", "image": "Express.png" },
+  { "name": "Laravel", "image": "Laravel.png" },
+  { "name": "React", "image": "React.png" },
+  { "name": "MySQL", "image": "MySQL.png" },
+  { "name": "MongoDB", "image": "MongoDB.png" },
+  { "name": "PostgreSQL", "image": "PostgresSQL.png" },
+  { "name": "Firebase", "image": "Firebase.png" },
+  { "name": "Docker", "image": "Docker.png" },
+  { "name": "GitHub", "image": "GitHub.png" },
+  { "name": "Google Cloud", "image": "Google Cloud.png" },
+  { "name": "Kubernetes", "image": "Kubernetes.png" },
+  { "name": "Postman", "image": "Postman.png" }
+]

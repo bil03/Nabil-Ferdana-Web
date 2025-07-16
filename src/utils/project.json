@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Restoroku",
+    "description": "Website-Based Stock Item Data Processing System that Can Manage Incoming Goods, Outgoing Goods",
+    "techs": ["Laravel", "MySql"],
+    "repo": "https://github.com/bil03/RestoRoku",
+    "image": "restoroku"
+  },
+  {
+    "title": "Garbify",
+    "description": "A classification system that can detect recycle waste images using AI",
+    "techs": ["React Native", "Express Js", "Google Cloud Platform", "Docker"],
+    "repo": "https://github.com/bil03/garbify",
+    "image": "Garbify"
+  },
+  {
+    "title": "Trash Hub",
+    "description": "innovative app developed to make waste management easier for the community.",
+    "techs": ["Kotlin", "Tensor Flow", "Express Js", "Google Cloud Platform", "Docker"],
+    "repo": "https://github.com/TrashHubs",
+    "image": "TrashHub"
+  },
+  {
+    "title": "Note App",
+    "description": "A user-friendly Note Application that helps you capture ideas, manage tasks, and keep everything organized",
+    "techs": ["React Js"],
+    "repo": "https://github.com/bil03/personal-notes-app",
+    "image": "NoteApp"
+  },
+  {
+    "title": "Product Store",
+    "description": "A simple store management system that allows you to manage basic inventory data easily",
+    "techs": ["React Js", "Express Js", "MongoDB"],
+    "repo": "https://github.com/bil03/Product-Store",
+    "image": "ProductStore"
+  }
+]
