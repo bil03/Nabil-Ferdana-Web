@@ -2,11 +2,13 @@ import React from 'react';
 import Header from './layout/Header';
 import StarBackground from './components/StarBackground';
 import MouseBlob from './components/MouseBlob';
-import Content from './layout/content';
+import Content from './layout/Content';
 import Project from './layout/Project';
 import Skills from './layout/skills';
 import Experience from './layout/Experience';
 import Certificates from './layout/Certificates';
+import Contact from './layout/Contact';
+import Footer from './layout/Footer';
 
 function App() {
   return (
@@ -16,7 +18,7 @@ function App() {
 
       {/* Stars & meteors */}
       <StarBackground />
-      
+
       {/* Mouse Blob */}
       <MouseBlob />
 
@@ -57,6 +59,16 @@ function App() {
           <Certificates />
         </div>
       </section>
+
+      {/* Contact */}
+      <section id="contact" className="relative z-10 px-6">
+        <div className="w-full max-w-6xl mx-auto">
+          <Contact />
+        </div>
+      </section>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }

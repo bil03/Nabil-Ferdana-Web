@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
+import { motion } from 'framer-motion';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
 function HomeContent() {
   return (
-    <div className="text-center md:text-left md:w-3/4 flex flex-col items-center md:items-start animate-slide-in-left">
+    <motion.div className="text-center md:text-left md:w-3/4 flex flex-col items-center md:items-start" initial={{ x: -100, opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ duration: 1, ease: 'easeOut' }}>
       <p className="text-3xl font-bold mb-4 text-white">
         Hi there! <span className="inline-block ml-4">I’m Nabil Ferdana.</span>
       </p>
@@ -33,8 +34,8 @@ function HomeContent() {
           Contact Me
         </a>
       </div>
-    </div>
+    </motion.div>
   );
 }
 
-export default HomeContent
+export default HomeContent;
