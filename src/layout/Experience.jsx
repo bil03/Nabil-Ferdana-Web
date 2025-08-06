@@ -18,7 +18,7 @@ export default function Experience() {
             key={idx}
             date={exp.date}
             iconStyle={{ background: '#3b82f6', color: '#fff' }}
-            icon={exp.icon === 'school' ? <SchoolIcon /> : <WorkIcon />}
+            icon={exp.icon === 'School' ? <SchoolIcon /> : <WorkIcon />}
             contentStyle={{ background: '#1f2937', color: '#fff' }}
             contentArrowStyle={{ borderRight: '7px solid  #1f2937' }}
           >
