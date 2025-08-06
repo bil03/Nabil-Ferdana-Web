@@ -14,7 +14,7 @@ function NavBar() {
         });
       },
       {
-        threshold: 0.3, // section terlihat minimal 60%
+        threshold: 0.3,
       }
     );
 
